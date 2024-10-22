@@ -1,4 +1,4 @@
-# Symfony Tool to check property affordability
+# Symfony tool to check property affordability
 # Requirements
 
 - PHP 8.2
