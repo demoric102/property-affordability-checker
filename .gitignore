@@ -6,6 +6,9 @@
 /public/bundles/
 /var/
 /vendor/
+.env
+.DS_Store
+.gitignore
 ###< symfony/framework-bundle ###
 .idea/
 ###> symfony/phpunit-bridge ###
