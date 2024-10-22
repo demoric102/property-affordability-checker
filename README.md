@@ -1,5 +1,4 @@
-# Goodlord PHP Interview Test
-
+# Symfony Tool to check property affordability
 # Requirements
 
 - PHP 8.2
@@ -7,7 +6,9 @@
 
 # Running the command
 
-After running `composer install`:
+Clone the project `git clone https://github.com/demoric102/property-affordability-checker.git`
+
+Run `composer install`:
 
 - `bin/console app:affordability-check ./files/properties.csv ./files/bank_statement.csv`
 
